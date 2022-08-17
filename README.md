@@ -1,25 +1,32 @@
 # MonsterindiaClone
 We have created the clone of Monster india Website.
 link of our Websit "MonsterIndia Clone"
-https://chandan-mourya-monsterindiaclone.netlify.app/
+https://manish-yadav-monsterindiaclone.netlify.app/
 
-https://medium.com/@chandanmourya4786/collaborative-project-at-masai-school-monsterindia-com-clone-67276e481b83
+https://medium.com/@manishyadav78642080/collaborative-project-at-masai-school-monsterindia-com-clone-ced62980fe13
+
 
 Collaborative Project At Masai School “MonsterIndia.com Clone”.
 Before I start my blog writing on the clone of the website, I want to thank Masai School for this great opportunity and for providing this great platform to enhance my coding and life skills.
 We have tried our level best to make use of our so far journey and the knowledge that we have gained so far at Masai School to come up with our first project.
 
 #Some Screenshots
+
+
 ![image](https://user-images.githubusercontent.com/43124877/162619979-6215f2b1-9a02-4033-8dd2-ac4b63e1a091.png)
 
 
 
 Getting Started….
+
+
 It was a challenging journey for me and all my team members as we have to complete it within the time of construct week, so we faced different challenges like it was our first project and we did not have any experience working in a team also we did not know how to manage everything within the time period. So we started with planning and studying the website, then we distributed the workflow, the roles, and responsibilities and with great collaboration, we managed the work.
 
 ![image](https://user-images.githubusercontent.com/43124877/162619987-3dd5f2e5-d53f-4928-b2d1-1511cae6dc91.png)
 
 Project Details -
+
+
 We had to make a Job related websites its called a Monsterindia.com. In our websites any user can search any jobs according to own qualification. We are provide various types of work like in cororna every company had shutdown own office. Company staff done work from home. So, we provide in our websites work from home facility also for users. Its a awesome webisite for those persons they search a job.
 work from home page
 
