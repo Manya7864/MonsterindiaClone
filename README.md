@@ -1,7 +1,7 @@
 # MonsterindiaClone
 We have created the clone of Monster india Website.
 link of our Websit "MonsterIndia Clone"
-https://manish-yadav-monsterindiaclone.netlify.app/
+https://spiffy-cactus-59b8fe.netlify.app/
 
 https://medium.com/@manishyadav78642080/collaborative-project-at-masai-school-monsterindia-com-clone-ced62980fe13
 
